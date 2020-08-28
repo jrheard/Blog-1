@@ -152,7 +152,7 @@ Let's learn about components and other SPA concepts before proceeding further.
 
 Building UIs by composing components and passing data in a unidirectional way is a paradigm shift in the frontend world. It's a huge improvement in the way we reason about UI and it's very hard to go back to imperative DOM manipulation once you get used to this.
 
-A `Component` in libraries like React, Vue, Yew, Flutter etc have these features:
+A `Component` in libraries like React, Vue, Yew, Flutter etc has these features:
 
 - Ability to be composed into bigger components
 - `Props` - Pass data and callbacks from that component to its child components.
